@@ -4,7 +4,7 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div>
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+(https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 </div>
 <h3 align="center">📚 Studying 📚</h3>
 
